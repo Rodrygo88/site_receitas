@@ -1,0 +1,33 @@
+.imagem_receita{
+    border-radius: 16px;
+    box-shadow: 3px 3px 8px 2px rgba(0,0,0,0.4);
+    display: block;
+    width: 100%;
+}
+
+.titulo_receita{
+    color: var(--cor-texto-primaria);
+    font-size: 40px;
+    line-height: 140%;
+    margin-top: 24px;
+}
+
+.sub_titulo_receita{
+    color: var(--cor-texto-primaria);
+    font-size: 24px;
+    line-height: 150%;
+    margin-top: 24px;
+}
+
+.lista_ingredientes{
+    padding-inline: 24px;
+}
+
+.artigo_receita{
+    background-color: var(--cor-do-artigo);
+    border-radius: 24px;
+    height: 1440px;
+    margin: auto;
+    padding: 24px;
+    width: 800px;
+}

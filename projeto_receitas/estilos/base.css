@@ -1,0 +1,25 @@
+:root{
+    --cor-do-background: #573824;
+    --cor-do-artigo: #F0E8C2;
+    --cor-texto-primaria: #291B1A;
+    --cor-texto-secundaria: #573A37;
+    --cor-texto-para-bg: #F0E8C2;
+}
+
+main{
+    background-color: var(--cor-do-background);
+    color: var(--cor-texto-secundaria);
+    font-style: normal;
+    font-weight: 400;
+    font-family: "Alice", serif;
+}
+
+.info_receita{
+    list-style: none;
+}
+
+p{
+    font-size: 16px;
+    line-height: 150%;
+    margin-bottom: 16px;
+}

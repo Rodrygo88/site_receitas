@@ -1,0 +1,20 @@
+.main_receita{
+    background-image: url(../imagens/bg-image.png);
+    background-size: cover;
+    color: var(--cor-texto-secundaria);
+    padding-inline: 240px;
+    padding-block: 48px;
+    text-align: left;
+}
+
+.secao_principal{
+    padding-inline: 24px;
+    padding-block: 24px;
+}
+
+.rodape{
+    color: var(--cor-texto-para-bg);
+    margin-top: 28px;
+    text-align: center;
+    
+}
